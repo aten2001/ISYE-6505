@@ -1,5 +1,5 @@
 # ISYE-6501
-          <h6>Description</h6>
+<h6>Description</h6>
                             <p>
                                 Analytics Modeling - ISYE 6501 offered at Georgia Tech is an introduction to descriptive, predictive and prescriptive analytical modeling. 
                                 There are a wide variety of topics covered including classification, clustering, change detection, data smoothing, validation, prediction, optimization, experimentation, decision making and others.  
