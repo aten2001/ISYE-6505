@@ -13,7 +13,7 @@
                                 This course lays the groundwork for what kinds of tools are available to use for us analytics professionals and how to use each appropriately and effectively.
                             </p>
                             <h6>Sample Topics Covered in Assignments</h6>
-                            <ol>
+                            <ul>
                                 <li>Classification</li>
                                 <li>Unsupervised Learning</li>
                                 <li>Data Preparation</li>
@@ -27,4 +27,4 @@
                                 <li>Probability-Based Models</li>
                                 <li>Optimization</li>
                                 <li>Simulation</li>
-                            </ol> 
+                            </ul> 
